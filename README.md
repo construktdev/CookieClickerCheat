@@ -18,4 +18,4 @@ In future updates, I plan to add functionality to collect Golden Cookies as show
 
 ## Watch the original Video
  
-https://www.youtube.com/watch?v=dQf0rQslJmE&t=251s
+https://www.youtube.com/watch?v=dQf0rQslJmE
