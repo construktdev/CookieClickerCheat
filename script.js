@@ -31,4 +31,16 @@ function stopAutomation() {
     clearInterval(upgradePurchaseInterval);
 }
 
+function stopClicker() {
+    clearInterval(CookieClickerInterval);
+}
+
+function stopBuildings() {
+    clearInterval(buildingPurchaseInterval);
+}
+
+function stopUpgrades() {
+    clearInterval(upgradePurchaseInterval);
+}
+
 automateCookieClicker();
