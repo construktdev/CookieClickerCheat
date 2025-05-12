@@ -10,7 +10,7 @@ Special thanks to [TheCodingSloth](https://www.youtube.com/@TheCodingSloth) for 
 
 ### Stopping Automation
 
-Go back to the console and type `stopAutomation` to stop the automation.
+Go back to the console and type `stopAutomation` to stop the automation. (or stopClicker, stopBuildings or stopUpgrades)
 
 ### Future Updates
 
